@@ -9,7 +9,7 @@ If brackets are not balanced; return false.
 
 If interested in my comments please read the following post in my blib:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/12/08/balance-brackets/
 
 Keep on reading and experimenting; it is the best way to learn.
 
